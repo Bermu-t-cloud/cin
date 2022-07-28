@@ -1,0 +1,107 @@
+body
+{
+    background-image: url(loup.jpg);
+    background-size: cover;
+     background-attachment: fixed;
+     opacity: 0.85; 
+    }
+
+#bandiv{ 
+    text-align: center;
+    max-width: 75%;
+    margin:auto;
+    margin-top: 75px;
+    margin-bottom:50px; 
+    height: auto;
+
+    }
+
+    
+#menu{
+    max-width: 100%;
+    text-align: center;
+    padding-top: 55px;
+    margin-left: 50px ;
+    margin-right: 50px;
+}
+
+    
+#bouton{
+    padding-left: 4vmax;
+    padding-right:  4vmax; 
+    padding-bottom: 50px;
+   
+}
+      
+
+#imgtex{
+    text-align: justify;
+    clear:none;
+}
+
+#pict{
+    float:left;
+    max-width: 33%;
+    height: auto;
+    margin-left: 35px;
+    margin-right: 35px;}
+    
+    #tex{
+    color:#ed0b0b;
+     font-size: 2vmax;
+     text-shadow: 2px 2px 4px rgb(69, 66, 66);
+     text-size-adjust: fixed;
+     text-align-last: center;
+     display:block;
+     padding-top: 150px;
+    line-height: 80px; 
+     
+}
+
+#titre{
+    color:#ed0b0b;
+     font-size:40px;
+     text-shadow: 2px 2px 4px rgb(19, 18, 18);
+     text-align: center;
+}
+
+#titre{
+    float: center;
+    max-width: 100%;
+    height: auto;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+
+#baw{
+ text-align: center;
+ 
+
+}
+
+
+#tableau{ 
+      margin-left: 25%; 
+    text-align: center;
+    margin-right: 25%; color: #ed0b0b;
+    
+}
+th , td{  border: inset;}
+
+
+#t1{ border: inset;
+   float: left; 
+border-collapse: collapse;
+
+}
+
+    
+#t2{float: right;}
+
+    
+
+
+    
+   
+
